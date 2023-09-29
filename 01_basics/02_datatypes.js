@@ -17,7 +17,7 @@ let isLoggedIn=false
 // boolean=t/f
 // null =>standalone value or representation of empty value.
 
-// undefined => 
+// undefined => jo defined hi nahi hua hon
 // symbol => used in react to uniquely identify
 
 // OBJECTS

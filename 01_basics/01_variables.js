@@ -18,11 +18,12 @@ accountState=if we dont assign anything js understand it undefined.
   so Thts why in modern time we only use let and const.
   */
 
- //accountId =2; when i change this ,yeh hoga kinahi hoga yeh analyze karega node js
+ //accountId =2; when i change this ,yeh hoga ki nahi hoga yeh analyze karega node js
 
  accountEmail="satyam50014@gmail.com"
  accountPassword="56489"
 console.log(accountId);
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState])
-// console.table gives us all the data in a tabular form ,if we change some data or not it doesnt matter.
+// console.table gives us all the data about the variables we used
+// in a tabular form ,if we change some data or not it doesnt matter.
 
