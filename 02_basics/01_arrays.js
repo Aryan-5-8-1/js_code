@@ -74,6 +74,7 @@ const family = ["papa","mummy","bhaiya","tai ji"]
 
 // many programmers not use concat so we use "spread" method
 /*
+++++++++IMPORTANT!!! IMPORTANT!!!!!!!+++++++
 const all_fm =[...allmem, ...family] // spread 
 console.log(all_fm);
 */
