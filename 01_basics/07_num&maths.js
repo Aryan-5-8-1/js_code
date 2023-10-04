@@ -33,7 +33,7 @@ console.log(hundreds.toLocaleString('en-IN'));
 // console.log(Math.ceil(4.5)); // jara bhi 4 se zada hua 5 return kardega
 // console.log(Math.floor(4.9)); // 4 ayega neeche wali values legaa
 
-// +++++(Math.random())+++++Important
+// +++++ (Math.random()) +++++ Important
 // in this always values comes btw 0 and 1.
 // when we need random values betweeen 2 numbers we use it.
 console.log(Math.random());

@@ -1,9 +1,9 @@
 let myDate=new Date() // it gives us today date
-// console.log(myDate.toDateString());    // day/maonth/date/year
-// console.log(myDate.toISOString());
-// console.log(myDate.toJSON());
-// console.log(myDate.toLocaleDateString());
- // month/date/year
+console.log(myDate.toDateString());    // day/maonth/date/year   Tue Oct 03 2023
+console.log(myDate.toISOString());     //2023-10-03T15:13:32.411Z
+console.log(myDate.toJSON());            // 2023-10-03T15:13:32.411Z
+console.log(myDate.toLocaleDateString());  // 10/3/2023
+//  month/date/year
 
 // console.log(typeof(myDate));  // object
 
