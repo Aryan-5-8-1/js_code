@@ -1,5 +1,6 @@
 /* singleton
 const tinderuser = new Object()
+when we make object from constructor than it is called singleton.
 console.log(tinderuser);
 
 
