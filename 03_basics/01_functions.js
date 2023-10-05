@@ -88,6 +88,14 @@ function returnSecondValue(getArray){
 
 
 // console.log(returnSecondValue(myNewArray));
-console.log(returnSecondValue([
+// console.log(returnSecondValue([
     200,100,899
 ]));
+
+
+
+
+
+
+
+
