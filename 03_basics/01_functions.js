@@ -24,7 +24,7 @@ function addTwoNumbers(num1, num2){
     return result
 }
 const result2= addTwoNumbers(3,"4")
-// console.log(result2);  // nuw here it is 34 not undefined because here the function returs the value,
+// console.log(result2);  // now here it is 34 not undefined because here the function returs the value,
 // not consoled anything.
 
 //  function loginUser(username){
