@@ -1,0 +1,25 @@
+DOM = DOCUMENT OBJECT MODEL
+Diagram of DOCUMENT
+
+       [WINDOW]
+        |
+        |
+        v
+      [DOCUMENT]
+        |
+        |
+        [HTML]
+        /    \   
+       /      \
+      /        \
+[HEAD]         [BODY]
+|   \                  \
+|    \                  \
+|      \                 \
+[title]   [meta]       ------[div]
+        |                       /\
+        |                      /  \
+        [attribute]          [attribute]<<-[h1]  [p]
+                              |
+                              |
+                              [textnode]  

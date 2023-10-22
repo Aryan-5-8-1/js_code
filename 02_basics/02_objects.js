@@ -42,7 +42,7 @@ JsUser.greeting = function(){
 }
 console.log(JsUser.greeting());
 
-// ++++(when we want to call the attributes of objects )+++++++
+// ++++ (when we want to call the attributes of objects ) +++++++
 JsUser.greeting2 = function(){
     console.log(` hello ${this.name} ,kaa haal chacha`);
     // we use this to refernce the same object
