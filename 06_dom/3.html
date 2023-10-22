@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chai aur code</title>
+</head>
+<body style="background-color: black; color: bisque;">
+    
+</body>
+<script>
+    // element creation
+    const div=document.createElement('div')
+    console.log(div);
+    div.className = "main"
+    div.id = Math.round(Math.random()*100)
+   div.setAttribute("title","generate title")
+   div.style.backgroundColor ="12px"
+   div.innerText = "chai aur code"
+   const addText = dcument.createTextNode("chai aur code")
+   //  dcument.createTextNo it is widely used because innertext takes refernce from div.
+   div.appendChild(addText)
+
+   // finally attach this div to document
+
+   document.body.appendChild(div)
+   
+
+
+</script>
+</html>

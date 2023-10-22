@@ -1,0 +1,2 @@
+class3:: edit and remove elemnts in DOM
+
